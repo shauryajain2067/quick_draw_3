@@ -1,0 +1,18 @@
+#score{
+font-size:30px;
+margin-left:25px;
+float:left;
+}
+body{
+    background-color:wheat;
+}
+
+#timer{
+    font-size:30px;
+    float:right;
+    margin-right:25px;
+}
+#instruct{
+    color:red;
+    font-weight:bold;
+}
